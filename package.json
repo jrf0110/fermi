@@ -1,0 +1,20 @@
+{
+  "name": "fermi",
+  "version": "0.0.1",
+  "description": "Enrico Fermi was a well-known Italian theoretical and experimental physicist whose work impacted nuclear, particle, and quantum physics. Fermi is a library that allows developers to quickly and effortless provide templating for simple websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/fermi.git"
+  },
+  "author": "John Fawcett",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e5c14bfdd0be8f589af3e5f827af0eff7ebd2ced",
+  "jam": {
+    "main": "lib/fermi.js"
+  }
+}
