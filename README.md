@@ -32,3 +32,7 @@ fermi -o build/index.html index.html
 ```
 
 Fermi will follow all of the content links in the document and replace the innerHTML of elements with the content parameter specified with content from the link.
+
+## Fermi, huh, ya - what is it good for?
+
+This isn't for large projects. This is for small projects that you want to hack together quickly. It does prevent you from doing something stupid like making 5 static pages and copying and pasting the same content over and over again. It provides a quick way to support templating and it uses handlebars so everything is ready to go when you decide to actually make a good design.
